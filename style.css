@@ -1,0 +1,146 @@
+body {
+    font-family: Georgia, serif;
+    background-color: #ccccff;
+
+}
+  
+.header{
+    padding: 0px;
+    margin: 0;
+}
+#heading, img{
+    border: none;
+    width:100%;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #99FFCC;
+    width: 100%;
+
+}
+  
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+.hdropdown {
+    float: left;
+    overflow: hidden;
+}
+  
+.hdropdown .homedropbtn {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: black;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+  
+.navbar a:hover, .hdropdown:hover .homedropbtn {
+    background-color:#b2e6e6;
+}
+  
+  
+.hdropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+  
+.hdropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+  
+.hdropdown-content a:hover {
+    background-color: #ddd;
+}
+  
+.hdropdown:hover .hdropdown-content {
+    display: block;
+}
+
+
+.projdropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+  .projdropdown .projdropbtn {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: black;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+  .navbar a:hover, .projdropdown:hover .projdropbtn {
+    background-color: #b2e6e6;
+  }
+  
+  
+  .projdropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .projdropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .projdropdown-content a:hover {
+    background-color: #ddd;
+  }
+  
+  .projdropdown:hover .projdropdown-content {
+    display: block;
+  }
+
+
+
+
+
+
+
+
+
+    
+  #selfpic0, img{
+    float: left;
+    width: 25%;
+    margin: 0 0 0 15px;
+  }
+
+  #selfpic1, img{
+    float: right;
+    width: 25%;
+    margin: 0 0 0 15px;
+  }
