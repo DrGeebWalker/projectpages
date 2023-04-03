@@ -5,14 +5,14 @@ document.getElementById("myHeader").innerHTML = "<div class='header'>"+"<img id=
 + "  <div class='projdropdown-content'>"
 + "<a href='codingprojects.html'>Coding Projects</a>"
 + "<a href='comedyprojects.html'>Comedy Shorts</a>"
-+ "<a href='#'>Sewing Projects</a>"
-+ "<a href='#'>Art Collections</a>"
++ "<a href='sewingprojects.html'>Sewing Projects</a>"
++ "<a href='artprojects.html'>Art Collections</a>"
 + "</div> </div> "
 + "<div class='hdropdown'>"
 + "<button class='homedropbtn'>About</button>"
 + "<div class='hdropdown-content'>"
-+ "<a href='aboutpage.html'>Introduction</a>"
-+ "<a href='#'>Research Interests</a>"
++ "<a href='aboutpage.html#introsec'>Introduction</a>"
++ "<a href='aboutpage.html#researchsec'>Research Interests</a>"
 + "</div></div></div>"
 
 
