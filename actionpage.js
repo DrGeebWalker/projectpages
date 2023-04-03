@@ -3,7 +3,7 @@ document.getElementById("myHeader").innerHTML = "<div class='header'>"+"<img id=
 + "<div class='projdropdown'>"
 + "<button class='projdropbtn'>Projects</button>"
 + "  <div class='projdropdown-content'>"
-+ "<a href='#'>Coding Projects</a>"
++ "<a href='codingprojects.html'>Coding Projects</a>"
 + "<a href='comedyprojects.html'>Comedy Shorts</a>"
 + "<a href='#'>Sewing Projects</a>"
 + "<a href='#'>Art Collections</a>"
@@ -13,8 +13,6 @@ document.getElementById("myHeader").innerHTML = "<div class='header'>"+"<img id=
 + "<div class='hdropdown-content'>"
 + "<a href='aboutpage.html'>Introduction</a>"
 + "<a href='#'>Research Interests</a>"
-+ "<a href='#'>History</a>"
-+ "<a href='#'>Fursona</a>"
 + "</div></div></div>"
 
 
